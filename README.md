@@ -28,3 +28,13 @@ Use Visual Studio to build the project file into an executable, deploy to the wo
 ## License
 
 This project is licensed under the GNU GPL 3.0 License - see the [LICENSE](LICENSE) file for details.
+
+## Donate
+
+If you like my work and are feeling generous, you can leave me tip on ko-fi. Even the smallest donation is more than welcome and will make my day :)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C43PQ0I)
+
+Alternatively you can become a patron :D
+
+[![patroen](https://i.imgur.com/SWniXXj.png)](https://www.patreon.com/bePatron?u=51145413)
