@@ -2,6 +2,8 @@
 
 A MonoGame/XNA tile engine template.
 
+![screen capture](https://repository-images.githubusercontent.com/341876503/72e48980-7857-11eb-87f5-098c404ae7c8)]
+
 Contains:
 
 * Tile types
@@ -10,6 +12,8 @@ Contains:
 * Simplified movement
 * Cell automa caves
 * Water generation
+
+I built this light weight tile engine in high school but never finished the project. Please feel free to use :)
 
 ## Requires:
 
